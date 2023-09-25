@@ -1,8 +1,15 @@
 # Data-Analysis-Caso-practico-Accenture-
-En este caso práctico, exploraremos el análisis de datos para ayudar a un cliente a optimizar su estrategia empresarial .
+En este caso práctico, exploraremos el análisis de datos para ayudar a un cliente a optimizar su estrategia empresarial.
+
+Las tareas desarrolladas son:
+
+- Entendimiento del Proyecto.
+- Limpieza y Modelado de Datos.
+- Visualización de Datos y Data Storytelling
+- Presentación al Cliente
 
 
-- Análisis desarrollado a través de Python, visualización de datos a través de las librerías Matplotlib y Seaborn. 
+Análisis desarrollado a través de Python, visualización de datos a través de las librerías Matplotlib y Seaborn. 
 
 # Data
 Datos obtenidos: (https://www.theforage.com)
